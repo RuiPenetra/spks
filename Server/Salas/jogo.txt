@@ -1,0 +1,5 @@
+Chat Iniciado
+rui entrou. 
+dinis entrou. 
+dinis desligou-se. 
+rui desligou-se. 

@@ -1,0 +1,3 @@
+Chat Iniciado
+(Cliente 1): asd
+(Cliente 1): d

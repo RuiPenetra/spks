@@ -1,0 +1,52 @@
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\SPKS___Cliente.Form_Autenticar.resources
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\SPKS___Cliente.Form_Jogo.resources
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\bin\Debug\Cliente.exe.config
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\bin\Debug\Cliente.exe
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\bin\Debug\Cliente.pdb
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\bin\Debug\ProtocolSI.dll
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.exe
+D:\Windows 10\Users\Super Penalty Kick Secured\Cliente\obj\Debug\Cliente.pdb
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe.config
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.pdb
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\bin\Debug\ProtocolSI.dll
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Autenticar.resources
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Jogo.resources
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.exe
+D:\Windows 10\Users\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Autenticar.resources
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Jogo.resources
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.exe
+C:\Users\Rui\Desktop\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.pdb
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.exe
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\bin\Debug\ProtocolSI.dll
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Autenticar.resources
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\SPKS___Cliente.Form_Jogo.resources
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.exe
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Cliente\obj\Debug\Cliente.pdb

@@ -1,0 +1,27 @@
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\bin\Debug\Server.exe.config
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\bin\Debug\Server.exe
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\bin\Debug\Server.pdb
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\bin\Debug\ProtocolSI.dll
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\obj\Debug\Server.exe
+D:\Windows 10\Users\Super Penalty Kick Secured\Server\obj\Debug\Server.pdb
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\bin\Debug\Server.exe.config
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\bin\Debug\Server.exe
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\bin\Debug\Server.pdb
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\bin\Debug\ProtocolSI.dll
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\obj\Debug\Server.csproj.CopyComplete
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\obj\Debug\Server.exe
+D:\Windows 10\Users\SuperPenaltyKickSecured\Server\obj\Debug\Server.pdb
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\bin\Debug\Server.exe.config
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\bin\Debug\Server.exe
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\bin\Debug\Server.pdb
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\bin\Debug\ProtocolSI.dll
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\obj\Debug\Server.exe
+C:\Users\Rui\Desktop\BACKUP2\SuperPenaltyKickSecured\Server\obj\Debug\Server.pdb
